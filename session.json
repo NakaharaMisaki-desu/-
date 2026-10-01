@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "active": 0,
+  "docs": [
+    {
+      "name": "谱子1",
+      "active": 0,
+      "path": "",
+      "sections": [
+        {
+          "name": "第1区间",
+          "text": "N A /G A /V BN/G A /\n\nZ B /G A /ZAG /MAG /\n\nN A /G A /V BN/G A /\n\nZ B /G A /ZAG /MAG /\n\n\n\nN (DT) /(HT) Q /(VQ) A /(HW) E /\n\nZ (BT) /(AT) (SQ) /(DQ) WE/(BMW)QG /\n\nN (DT) /(HT) Q /(VQ) A /(HW) E /\n\nZ (BE) /A (SE) /(DR)EWR/(BME)WQ /\n\n\n\n(NG) (CQ) /(NQ) E /(VR) (AE) /(HW) QW/\n\n(ZE) (BE) /(AE) (SE) /(DW)EW /(BMQ)  /\n\n(NG) (DQ) /(HQ) E /(VR) (AE) /(HW) QW/\n\n(ZE) (BE) /(AE) (DE) /(GW)EW /(BMQ) J/\n\n\n\n(NJ)Q(CQ)Q/(NJ)QAQ/VQ(AQ)Q/(FJ)QAQ/\n\nZQ(BQ)Q/(AJ)QSQ/DQQQ/(MT)TBT/\n\nNT(DT)T/(HT)TDT/VT(AT)T/(HT)R(AR)E/\n\nZ B /A S /D  /(MW)QJQ/\n\n\n\n(NH) (DJ) /(HQ) T /(VR) (AE) /(FQ) Q /\n\nZ B /A S /(DQ)QQQ/(ME) Q /\n\n(NH) (DJ) /(HQ) T /(VR) (AE) /(HQ) W /\n\nB S /G Q /J  /B  /\n\n\n\n(ZD) (BS) /(ZF) (XD) /C A /(BG) J /\n\n(NQ) (CJ) /(NG) A /Z A /H H /\n\nV (ZH) /(NG) G /B (XG) /(BF) D /\n\n(ZS) (BD) /(ZF) (XD) /C  /B  /\n\n\n\n(CD) (MF) /(CG) (BD) /M F /G J /\n\n(NW) (CJ) /(NQ) (MQ) /A  /D Q /\n\n(VQ) (ZG) /(VG) (BH) /(NG) F /S D /\n\n(BF) (XG) /(BH) (XA) /(BH) XJ/(BJ) X /\n\n\n\n(ZD) (BS) /(ZF) (XD) /C A /(BG) J /\n\n(NQ) (CJ) /(NG) A /Z A /(CH) H /\n\nV (ZH) /(VG) (ZG) /B (XG) /(BF) (XD) /\n\n(ZS) (BD) /(ZF) (XD) /C  /B  /\n\n\n\n(CD) (MF) /(CG) (BD) /M F /G J /\n\n(NW) (CJ) /(NQ) (MQ) /A  /B Q /\n\n(VQ) (ZG) /(VG) (BH) /(NG) F /N M /\n\n(BA) (XS) /(BD) S /B X /(BD) A /\n\n\n\nZ B /A S /D  /M J/\n\n(NJ)Q(CQ)Q/(NJ)QAQ/VQ(AQ)Q/(FJ)QAQ/\n\nZQ(BQ)Q/(AJ)QSQ/DQQQ/(MT)TBT/\n\nNT(DT)T/(HT)TDT/VT(AT)T/(HT)R(AR)E/\n\n\n\nZ B /A S /D  /(MW)QJQ/\n\n(NH) (DJ) /(HQ) T /(VR) (AE) /(FQ) Q /\n\nZ B /A S /(DQ)QQQ/(ME) Q /\n\n(NH) (DJ) /(HQ) T /(VR) (AE) /(HQ) W /\n\n\n\nB S /G Q /J  /B  /\n\n(ZD) (BS) /(ZF) (XD) /C A /(BG) J /\n\n(NQ) (CJ) /(NG) A /Z A /H H /\n\nV (ZH) /(NG) G /B (XG) /(BF) D /\n\n\n\n(ZS) (BD) /(ZF) (XD) /C  /B  /\n\n(CD) (MF) /(CG) (BD) /M F /G J /\n\n(NW) (CJ) /(NQ) (MQ) /A  /D Q /\n\n(VQ) (ZG) /(VG) (BH) /(NG) F /S D /\n\n\n\n(BF) (XG) /(BH) (XA) /(BH) XJ/(BJ) X /\n\n(ZD) (BS) /(ZF) (XD) /C A /(BG) J /\n\n(NQ) (CJ) /(NG) A /Z A /(CH) H /\n\nV (ZH) /(VG) (ZG) /B (XG) /(BF) (XD) /\n\n\n\n(ZS) (BD) /(ZF) (XD) /C  /B  /\n\n(CD) (MF) /(CG) (BD) /M F /G J /\n\n(NW) (CJ) /(NQ) (MQ) /A  /B Q /\n\n(VQ) (ZG) /(VG) (BH) /(NG) F /N M /\n\n\n\n(BA) (XS) /(BD) S /B X /(BD) A /\n\nZ B /A S /D G /Q W /T",
+          "own_interval": false,
+          "interval_ms": 150,
+          "start_line": 0,
+          "end_line": 0
+        }
+      ]
+    }
+  ]
+}
