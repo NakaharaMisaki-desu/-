@@ -1,0 +1,11 @@
+# 原神自动弹琴 谱子
+# 乐器: 风物之诗琴
+# 间隔: 200
+# 说明: 小星星（中音区）。A=do S=re D=mi F=fa G=so H=la J=si
+
+A A G G H H G -
+F F D D S S A -
+G G F F D D S -
+G G F F D D S -
+A A G G H H G -
+F F D D S S A -
