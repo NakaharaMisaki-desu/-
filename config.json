@@ -1,0 +1,46 @@
+{
+  "instrument": "vodyanitsa",
+  "interval_ms": 380,
+  "hold_ms": 30,
+  "countdown_s": 3,
+  "auto_activate_game": true,
+  "stop_on_focus_loss": true,
+  "allow_without_game": false,
+  "always_on_top": true,
+  "minimize_on_close": true,
+  "send_method": "vk",
+  "game_processes": [
+    "YuanShen.exe",
+    "GenshinImpact.exe"
+  ],
+  "game_window_titles": [
+    "原神",
+    "Genshin Impact"
+  ],
+  "hotkey_toggle": {
+    "mods": [],
+    "vk": 120,
+    "name": "F9"
+  },
+  "hotkey_panic": {
+    "mods": [],
+    "vk": 121,
+    "name": "F10"
+  },
+  "max_play_seconds": 900,
+  "verbose_log": true,
+  "window_geometry": "1080x831+579+317",
+  "last_sheet_path": "",
+  "bracket_mode": "chord",
+  "timing_mode": "before",
+  "tight_ms": 200,
+  "tight_mode": "adjacent",
+  "slash_ms": 1,
+  "disclaimer_show": false,
+  "disclaimer_accepted": "原神自动弹琴 · 琴谱演奏器 v1.1.1",
+  "un_topmost_while_playing": false,
+  "config_version": 2,
+  "line_numbers": true,
+  "line_number_side": "right",
+  "_force_untop": false
+}
